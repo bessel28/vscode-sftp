@@ -26,12 +26,7 @@ export default checkCommand({
         });
         return acc;
       },
-      [
-        {
-          value: null,
-          label: 'UNSET',
-        },
-      ]
+      []
     );
 
     if (profiles.length <= 1) {
