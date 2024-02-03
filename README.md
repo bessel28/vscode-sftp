@@ -1,3 +1,9 @@
+# SFTP FORK
+
+Basically just a fork of the vscode extension that adds minor custom features I wanted.
+
+Good excuse for me to (re)learn typescript
+
 # sftp sync extension for VS Code
 
 New maintained and updated version by [@Natizyskunk](https://github.com/Natizyskunk/) 😀 <!-- and [@satiromarra](https://github.com/satiromarra) --> <br>
